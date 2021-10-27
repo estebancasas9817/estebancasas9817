@@ -1,4 +1,4 @@
- <h1 align="center">GitHub Stats :chart_with_upwards_trend:</h1>
+ ## GitHub Stats :chart_with_upwards_trend:
 <div align="center">
   <a href="https://github.com/estebancasas9817">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estebancasas9817&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
