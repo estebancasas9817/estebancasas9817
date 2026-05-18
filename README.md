@@ -20,7 +20,10 @@
   <a align="center" href="https://www.instagram.com/esteban_casas98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:estebancasas9817@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/esteban-casas-garzón-ba50471b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://raw.githubusercontent.com/estebancasas9817/estebancasas9817/output/github-contribution-grid-snake.svg)
- 
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/estebancasas9817/estebancasas9817/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/estebancasas9817/estebancasas9817/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/estebancasas9817/estebancasas9817/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
