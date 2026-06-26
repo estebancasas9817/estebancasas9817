@@ -1,8 +1,7 @@
  ## GitHub Stats :chart_with_upwards_trend:
  <div align="center">
-  <a href="https://github.com/estebancasas9817">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=estebancasas9817&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebancasas9817&layout=compact&langs_count=7&theme=algolia"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=estebancasas9817&count_private=true&include_all_commits=true&show_icons=true&theme=radical&rank_icon=github" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebancasas9817&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
 
 <div style="display: inline_block"><br>
